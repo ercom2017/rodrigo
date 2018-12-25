@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Places>
+  <Place Id="0" City="Madrid" Lat="40.4167754" Lon="-3.7037902"/>
+  <Place Id="1" City="Berlin" Lat="52.519171" Lon="13.4060912"/>
+  <Place Id="2" City="Roma" Lat="41.9015141" Lon="12.4607737"/>
+  <Place Id="3" City="Paris" Lat="48.856614" Lon="2.3522219"/>
+  <Place Id="4" City="Nueva York" Lat="40.7143528" Lon="-74.0059731"/>
+</Places>
